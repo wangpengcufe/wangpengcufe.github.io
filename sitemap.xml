@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://wangpengcufe.github.io/read/ebooks/</loc>
+    
+    <lastmod>2019-10-09T05:47:30.946Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://wangpengcufe.github.io/datadownload/download/</loc>
+    
+    <lastmod>2019-10-09T05:47:00.612Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://wangpengcufe.github.io/read/ebooks-zgf/</loc>
     
     <lastmod>2019-10-09T02:59:37.981Z</lastmod>
@@ -142,13 +156,6 @@
   </url>
   
   <url>
-    <loc>http://wangpengcufe.github.io/read/ebooks/</loc>
-    
-    <lastmod>2019-10-09T02:23:47.347Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://wangpengcufe.github.io/read/ebooks-gxq/</loc>
     
     <lastmod>2019-10-09T02:21:39.920Z</lastmod>
@@ -243,13 +250,6 @@
     <loc>http://wangpengcufe.github.io/navigate/main/</loc>
     
     <lastmod>2019-09-17T03:13:41.615Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://wangpengcufe.github.io/datadownload/download/</loc>
-    
-    <lastmod>2019-09-14T15:11:13.772Z</lastmod>
     
   </url>
   
