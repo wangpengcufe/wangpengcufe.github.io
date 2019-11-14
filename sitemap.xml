@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://wangpengcufe.github.io/navigate/main/</loc>
+    
+    <lastmod>2019-11-14T12:16:34.547Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://wangpengcufe.github.io/machinelearning/ml-ml10/</loc>
+    
+    <lastmod>2019-11-14T12:15:40.474Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://wangpengcufe.github.io/read/ebooks-cywj/</loc>
     
     <lastmod>2019-11-12T07:40:18.414Z</lastmod>
@@ -54,13 +68,6 @@
     <loc>http://wangpengcufe.github.io/machinelearning/ml-ml9/</loc>
     
     <lastmod>2019-11-11T13:34:22.736Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://wangpengcufe.github.io/navigate/main/</loc>
-    
-    <lastmod>2019-11-11T13:27:39.977Z</lastmod>
     
   </url>
   
