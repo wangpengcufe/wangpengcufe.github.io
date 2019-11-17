@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://wangpengcufe.github.io/read/navigate/ebooks/</loc>
+    <loc>http://wangpengcufe.github.io/read/ebooks/</loc>
     
-    <lastmod>2019-11-17T16:30:57.921Z</lastmod>
+    <lastmod>2019-11-17T16:33:59.287Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://wangpengcufe.github.io/datadownload/download/</loc>
+    
+    <lastmod>2019-11-17T16:18:10.246Z</lastmod>
     
   </url>
   
