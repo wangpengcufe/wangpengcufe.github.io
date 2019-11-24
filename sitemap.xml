@@ -2,16 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.wangpengcufe.com/datadownload/download/</loc>
+    <loc>http://www.wangpengcufe.com/navigate/main/</loc>
     
-    <lastmod>2019-11-21T02:50:36.967Z</lastmod>
+    <lastmod>2019-11-24T16:22:07.801Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://www.wangpengcufe.com/navigate/main/</loc>
+    <loc>http://www.wangpengcufe.com/machinelearning/ml-ml16/</loc>
     
-    <lastmod>2019-11-20T17:01:45.240Z</lastmod>
+    <lastmod>2019-11-24T16:21:22.175Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.wangpengcufe.com/machinelearning/ml-ml5/</loc>
+    
+    <lastmod>2019-11-21T04:22:46.128Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.wangpengcufe.com/datadownload/download/</loc>
+    
+    <lastmod>2019-11-21T02:50:36.967Z</lastmod>
     
   </url>
   
@@ -82,13 +96,6 @@
     <loc>http://www.wangpengcufe.com/machinelearning/ml-ml6/</loc>
     
     <lastmod>2019-11-19T13:03:17.412Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.wangpengcufe.com/machinelearning/ml-ml5/</loc>
-    
-    <lastmod>2019-11-19T13:03:14.027Z</lastmod>
     
   </url>
   
