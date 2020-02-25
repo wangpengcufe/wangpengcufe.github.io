@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.wangpengcufe.com/read/ebooks/</loc>
+    
+    <lastmod>2020-02-25T04:37:01.614Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.wangpengcufe.com/machinelearning/pythonml-pythonml4/</loc>
     
     <lastmod>2020-02-19T09:47:57.147Z</lastmod>
@@ -166,13 +173,6 @@
     <loc>http://www.wangpengcufe.com/tools/zhishu/</loc>
     
     <lastmod>2019-11-20T17:01:39.474Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.wangpengcufe.com/read/ebooks/</loc>
-    
-    <lastmod>2019-11-20T17:01:11.004Z</lastmod>
     
   </url>
   
