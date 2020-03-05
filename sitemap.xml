@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.wangpengcufe.com/tools/tool/</loc>
+    
+    <lastmod>2020-03-05T07:28:31.586Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.wangpengcufe.com/tools/dev/</loc>
+    
+    <lastmod>2020-03-05T07:27:45.550Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.wangpengcufe.com/read/ebooks/</loc>
     
     <lastmod>2020-02-25T08:53:17.475Z</lastmod>
@@ -187,13 +201,6 @@
     <loc>http://www.wangpengcufe.com/tools/zhishu/</loc>
     
     <lastmod>2019-11-20T17:01:39.474Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.wangpengcufe.com/tools/tool/</loc>
-    
-    <lastmod>2019-11-20T17:00:55.525Z</lastmod>
     
   </url>
   
