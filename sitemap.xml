@@ -2,16 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.wangpengcufe.com/tools/tool/</loc>
+    <loc>http://www.wangpengcufe.com/read/ebooks/</loc>
     
-    <lastmod>2020-03-05T07:42:25.862Z</lastmod>
+    <lastmod>2020-03-10T06:20:10.630Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://www.wangpengcufe.com/read/ebooks/</loc>
+    <loc>http://www.wangpengcufe.com/read/ebooks-cdswldq/</loc>
     
-    <lastmod>2020-02-25T08:53:17.475Z</lastmod>
+    <lastmod>2020-03-10T06:18:06.167Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.wangpengcufe.com/read/ebooks-dls/</loc>
+    
+    <lastmod>2020-03-10T06:14:17.923Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.wangpengcufe.com/tools/tool/</loc>
+    
+    <lastmod>2020-03-05T07:42:25.862Z</lastmod>
     
   </url>
   
