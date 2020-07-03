@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.wangpengcufe.com/navigate/main/</loc>
+    
+    <lastmod>2020-07-03T02:08:18.743Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.wangpengcufe.com/machinelearning/pythonml-pythonml7/</loc>
+    
+    <lastmod>2020-07-03T02:07:32.155Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.wangpengcufe.com/tools/tool/</loc>
     
     <lastmod>2020-06-03T09:07:56.171Z</lastmod>
@@ -40,13 +54,6 @@
     <loc>http://www.wangpengcufe.com/tools/wuziqi/</loc>
     
     <lastmod>2020-05-28T09:36:00.548Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.wangpengcufe.com/navigate/main/</loc>
-    
-    <lastmod>2020-05-26T03:12:26.411Z</lastmod>
     
   </url>
   
